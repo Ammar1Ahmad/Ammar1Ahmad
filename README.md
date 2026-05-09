@@ -81,9 +81,9 @@ Modern responsive portfolio with optimized performance and clean UI/UX.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ammar1ahmad/)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ammar1ahmad/)
 
-[![LeetCode](https://leetcode.com/u/Ammar1ahmad/)](YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Ammar1ahmad/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail)](mailto:ammarahmad7651@gmail.com)
 
