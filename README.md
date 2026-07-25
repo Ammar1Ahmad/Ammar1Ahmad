@@ -150,25 +150,7 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ammar1Ahmad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar1Ahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
