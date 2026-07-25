@@ -152,11 +152,7 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 
 
 
-<div align="center">
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Ammar1Ahmad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
-
-</div>
 
 <div align="center">
 
