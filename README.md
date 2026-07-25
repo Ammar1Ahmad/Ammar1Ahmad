@@ -71,18 +71,10 @@ Achievements:
 
 ---
 
-## Cloud & DevOps
+## ☁️ DevOps & Cloud Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,githubactions" />
-</p>
-
----
-
-## Frameworks & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,firebase,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,prometheus,grafana,nginx,redis,postgres,mysql,mongodb,python,java,maven,gradle,postman,vscode,vim,ubuntu,debian,redhat,cloudflare" />
 </p>
 
 ---
@@ -128,16 +120,58 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ammar1Ahmad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ammar1Ahmad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar1Ahmad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar1Ahmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ammar1Ahmad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammar1Ahmad&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ammar1Ahmad&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ammar1Ahmad&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammar1Ahmad&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ammar1Ahmad/Ammar1Ahmad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+<p align="center">
+  <img src="https://metrics.lecoq.io/Ammar1Ahmad?template=classic&config.timezone=Asia%2FKolkata" />
+</p>
 ---
 
 # GitHub Streak
@@ -170,14 +204,51 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 
 ---
 
-# Current Goals
+#  Current Focus
 
-- Building scalable cloud infrastructure projects
-- Mastering DevOps & backend engineering
-- Learning Kubernetes & advanced AWS
-- Contributing to open source
-- Creating production-grade SaaS applications
+<table>
+<tr>
+<td>
 
+###  Professional Goals
+
+- ☁️ Architecting scalable and highly available cloud infrastructure
+-  Mastering DevOps, Platform Engineering, and CI/CD automation
+-  Deepening expertise in Kubernetes, AWS, and Infrastructure as Code
+-  Implementing DevSecOps, observability, and cloud security best practices
+-  Building production-ready microservices and backend systems
+-  Actively contributing to impactful open-source projects
+-  Designing and deploying enterprise-grade SaaS applications
+-  Continuously improving Data Structures, System Design, and Cloud Architecture
+-  Preparing for AWS, Kubernetes, and Terraform certifications
+-  Exploring AI-powered automation for DevOps workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+##  2026 Roadmap
+
+| Goal | Progress |
+|------|:--------:|
+| 🐧 Linux & Shell Scripting | ██████████ 100% |
+|  Git & GitHub | ██████████ 100% |
+|  Docker | █████████░ 90% |
+|  Kubernetes | ███████░░░ 70% |
+|  AWS Cloud | ███████░░░ 70% |
+|  Terraform | ██████░░░░ 60% |
+|  CI/CD (Jenkins & GitHub Actions) | ████████░░ 80% |
+|  Monitoring (Prometheus & Grafana) | ██████░░░░ 60% |
+|  DevSecOps | █████░░░░░ 50% |
+|  Production SaaS Projects | ███████░░░ 70% |
+
+---
+
+##  Mission
+
+> **To become a Cloud & DevOps Engineer who designs secure, scalable, automated, and production-ready infrastructure while contributing meaningful solutions to the open-source community.**
 ---
 
 # Connect With Me
