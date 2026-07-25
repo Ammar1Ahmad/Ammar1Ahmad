@@ -1,33 +1,61 @@
 <div align="center">
 
-# Ammar Ahmad
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:1E293B,60:0EA5E9,80:38BDF8,100:7DD3FC&text=Ammar%20Ahmad&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+%26+DevOps+Engineer;Backend+Systems+Developer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Linux;Building+Scalable+Infrastructure+%26+Applications" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Backend+Systems+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Infrastructure;Building+Production-Grade+Applications" />
 
-### Cloud • DevOps • Backend Engineering • Scalable Systems
+<br><br>
 
-Building production-grade cloud infrastructure, automation pipelines, and modern high-performance applications.
+<img src="https://img.shields.io/badge/Cloud-AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Containers-Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Linux-Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
+<img src="https://img.shields.io/badge/Automation-GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Backend-Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
 
-<p align="center">
+<br><br>
+
+<h3>
+Building scalable cloud infrastructure, automation pipelines,
+<br>
+high-performance backend systems, and production-ready applications.
+</h3>
+
+<br>
 
 <a href="https://github.com/Ammar1Ahmad">
-<img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&style=for-the-badge&color=38BDF8"/>
 </a>
 
 <a href="https://github.com/Ammar1Ahmad?tab=followers">
-<img src="https://img.shields.io/github/followers/Ammar1Ahmad?label=Followers&style=flat&color=111111" />
+<img src="https://img.shields.io/github/followers/Ammar1Ahmad?style=for-the-badge&logo=github&color=0EA5E9"/>
 </a>
 
 <a href="https://github.com/Ammar1Ahmad">
-<img src="https://img.shields.io/github/stars/Ammar1Ahmad?style=flat&color=111111" />
+<img src="https://img.shields.io/github/stars/Ammar1Ahmad?style=for-the-badge&logo=github&color=38BDF8"/>
 </a>
 
-</p>
+<a href="https://github.com/Ammar1Ahmad?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=3DA639"/>
+</a>
+
+<br><br>
+
+
 
 </div>
 
+---
+
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 ---
 
 # About Me
