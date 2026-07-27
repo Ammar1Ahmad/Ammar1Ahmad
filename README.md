@@ -150,6 +150,17 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 
 # 📊 GitHub Analytics
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
 
 
 
@@ -180,35 +191,7 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 </p>
 ---
 
-# GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ammar1Ahmad&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 #  Current Focus
 
