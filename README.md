@@ -49,7 +49,9 @@ high-performance backend systems, and production-ready applications.
 
 ---
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 <p align="center">
 
