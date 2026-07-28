@@ -109,44 +109,6 @@ Achievements:
 
 ---
 
-# Featured Projects
-
-## Cloud-Based Smart Healthcare Monitoring System
-
-AWS-powered healthcare platform designed for secure authentication, scalable backend infrastructure, and real-time patient monitoring.
-
-### Features
-- Cloud-native architecture
-- Real-time monitoring
-- Secure authentication
-- Scalable backend systems
-- Optimized performance
-
----
-
-## CI/CD Pipeline with Docker Deployment
-
-Automated deployment pipeline using Docker, GitHub Actions, and Linux cloud environments.
-
-### Features
-- Continuous Integration
-- Automated Deployment
-- Docker Containerization
-- GitHub Actions Workflow
-- Production-ready pipeline
-
----
-
-## Modern Portfolio Website
-
-High-performance responsive developer portfolio with premium UI/UX and optimized frontend architecture.
-
-### Features
-- Responsive Design
-- Premium UI/UX
-- Optimized Performance
-- SEO Friendly
-- Modern Animations
 
 ---
 
