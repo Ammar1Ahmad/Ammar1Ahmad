@@ -165,8 +165,6 @@ High-performance responsive developer portfolio with premium UI/UX and optimized
 </div>
 
 
-
-
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammar1Ahmad&theme=tokyonight"/>
