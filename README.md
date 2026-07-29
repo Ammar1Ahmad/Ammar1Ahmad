@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:1E293B,60:0EA5E9,80:38BDF8,100:7DD3FC&text=Ammar%20Ahmad&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,20:0F172A,40:1E293B,60:0EA5E9,80:38BDF8,100:7DD3FC&text=Ammar%20Ahmad&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Software%20Engineer&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Backend+Systems+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Infrastructure;Building+Production-Grade+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Software+Systems+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Infrastructure;Building+Production-Grade+Applications" />
+
 
 <br><br>
 
@@ -13,10 +14,28 @@
 <img src="https://img.shields.io/badge/Orchestration-Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/Linux-Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
 <img src="https://img.shields.io/badge/Automation-GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-<img src="https://img.shields.io/badge/Backend-Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
+<img src="https://img.shields.io/badge/Development-Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820"/>
+
+<img src="https://img.shields.io/badge/Programming-Python-111827?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Web-HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/Styling-CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Web-TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Frontend-React-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Backend-Spring%20Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/API-REST-111827?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Database-MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/NoSQL-MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Version%20Control-Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
 
 <br><br>
-
+<img src="https://img.shields.io/badge/Infrastructure-Terraform-111827?style=for-the-badge&logo=terraform&logoColor=844FBA"/>
+<img src="https://img.shields.io/badge/Configuration-Ansible-111827?style=for-the-badge&logo=ansible&logoColor=EE0000"/>
+<img src="https://img.shields.io/badge/Scripting-Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Jenkins-111827?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+<img src="https://img.shields.io/badge/Monitoring-Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+<img src="https://img.shields.io/badge/Visualization-Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800"/>
+<img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 <h3>
 Building scalable cloud infrastructure, automation pipelines,
 <br>
@@ -179,21 +198,8 @@ Achievements:
 </table>
 
 ---
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ffadb2eb-b655-49f4-837e-873f90e6e3bf" />
 
-##  2026 Roadmap
-
-| Goal | Progress |
-|------|:--------:|
-| 🐧 Linux & Shell Scripting | ██████████ 100% |
-|  Git & GitHub | ██████████ 100% |
-|  Docker | █████████░ 90% |
-|  Kubernetes | ███████░░░ 70% |
-|  AWS Cloud | ███████░░░ 70% |
-|  Terraform | ██████░░░░ 60% |
-|  CI/CD (Jenkins & GitHub Actions) | ████████░░ 80% |
-|  Monitoring (Prometheus & Grafana) | ██████░░░░ 60% |
-|  DevSecOps | █████░░░░░ 50% |
-|  Production SaaS Projects | ███████░░░ 70% |
 
 ---
 
