@@ -7,7 +7,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;DevOps+Engineer;Software+Systems+Developer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Infrastructure;Building+Production-Grade+Applications" />
 
 
-<br><br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+---
+<br>
 
 <img src="https://img.shields.io/badge/Cloud-AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Containers-Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
@@ -66,18 +77,7 @@ high-performance backend systems, and production-ready applications.
 
 </div>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
----
 
 # About Me
 
