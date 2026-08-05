@@ -129,22 +129,42 @@ Achievements:
 ---
 
 
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ammar1Ahmad&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar1Ahmad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Ammar1Ahmad&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammar1Ahmad&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ammar1Ahmad&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -161,18 +181,38 @@ Achievements:
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ammar1Ahmad&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ammar1Ahmad/Ammar1Ahmad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-<p align="center">
-  <img src="https://metrics.lecoq.io/Ammar1Ahmad?template=classic&config.timezone=Asia%2FKolkata" />
-</p>
----
 
+<br>
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ammar1Ahmad&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Ammar1Ahmad?template=classic&config.timezone=Asia%2FKolkata&isocalendar=1&languages=1&habits=1&activity=1&repositories=100&stars=100"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ammar1Ahmad/Ammar1Ahmad/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ammar1Ahmad&label=PROFILE+VIEWS&color=7F3FBF&style=for-the-badge"/>
+
+</div>
 
 #  Current Focus
 
