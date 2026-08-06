@@ -710,7 +710,7 @@ Peer-Reviewed Journal
 
 ###  Professional Goals
 
-- ☁️ Architecting scalable and highly available cloud infrastructure
+-  Architecting scalable and highly available cloud infrastructure
 -  Mastering DevOps, Platform Engineering, and CI/CD automation
 -  Deepening expertise in Kubernetes, AWS, and Infrastructure as Code
 -  Implementing DevSecOps, observability, and cloud security best practices
