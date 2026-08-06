@@ -8,8 +8,6 @@
 
 <br><br>
 
-> ### **Building secure, scalable, cloud-native systems through software engineering, DevOps automation, and modern cloud technologies.**
-
 <br>
 
 <a href="https://github.com/Ammar1Ahmad">
@@ -46,11 +44,7 @@
 
 </div>
 
-<div align="center">
 
-> *"Engineering is not only about writing code—it's about building reliable systems that scale, automate, and create real-world impact."*
-
-</div>
 
 
 # About Me
@@ -67,6 +61,12 @@ With experience in **AWS**, **Docker**, **CI/CD**, **RESTful API development**, 
 
 <br>
 
+<div align="center">
+
+> *"Engineering is not only about writing code—it's about building reliable systems that scale, automate, and create real-world impact."*
+
+</div>
+ 
 ## Professional Profile
 
 <div align="center">
