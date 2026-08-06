@@ -541,7 +541,7 @@ The proposed system leverages predictive analytics for health risk assessment wh
 
 <td width="25%" align="center">
 
- 600+
+## 600+
 
 **LeetCode Problems**
 
@@ -551,7 +551,7 @@ Algorithmic Problem Solving
 
 <td width="25%" align="center">
 
- 10+
+## 10+
 
 Professional Certifications**
 
