@@ -57,7 +57,7 @@ My primary interests lie in designing **cloud-native architectures**, developing
 
 I enjoy building reliable software that emphasizes **scalability, security, maintainability, and performance** while leveraging cloud technologies and infrastructure automation to solve real-world engineering challenges.
 
-With experience in **AWS**, **Docker**, **CI/CD**, **RESTful API development**, and **Machine Learning**, I focus on delivering production-ready applications following modern software engineering principles. :contentReference[oaicite:0]{index=0}
+With experience in **AWS**, **Docker**, **CI/CD**, **RESTful API development**, and **Machine Learning**, I focus on delivering production-ready applications following modern software engineering principles. 
 
 <br>
 
