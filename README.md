@@ -708,24 +708,7 @@ Peer-Reviewed Journal
 <tr>
 <td>
 
-###  Professional Goals
 
--  Architecting scalable and highly available cloud infrastructure
--  Mastering DevOps, Platform Engineering, and CI/CD automation
--  Deepening expertise in Kubernetes, AWS, and Infrastructure as Code
--  Implementing DevSecOps, observability, and cloud security best practices
--  Building production-ready microservices and backend systems
--  Actively contributing to impactful open-source projects
--  Designing and deploying enterprise-grade SaaS applications
--  Continuously improving Data Structures, System Design, and Cloud Architecture
--  Preparing for AWS, Kubernetes, and Terraform certifications
--  Exploring AI-powered automation for DevOps workflows
-
-</td>
-</tr>
-</table>
-
----
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ffadb2eb-b655-49f4-837e-873f90e6e3bf" />
 
 
